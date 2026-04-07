@@ -14,22 +14,24 @@ Product detail validation
 Checkout process
 
 The project reflects a real-world QA workflow, showcasing my ability to test applications systematically and report defects professionally.
+## 📂 Project Structure
 
-📂 Project Structure
+
+---
+```
 qa-web-saucedemo/
 ├── test-plan.md
 ├── bug-reports.md
 ├── test-cases/
-│   └── saucedemo-test-cases.xlsx
+│ └── saucedemo-test-cases.xlsx
 ├── evidence/
-│   ├── bug-01.png
-│   ├── bug-02.png
-│   └── (additional screenshots)
+│ ├── bug-01.png
+│ ├── bug-02.png
+│ └── (additional screenshots)
 └── README.md
-📝 Test Artifacts
-✔ Test Plan
 
-Located in test-plan.md
+```
+##Located in test-plan.md
 
 Includes:
 
@@ -41,7 +43,7 @@ Deliverables
 Tools & environment setup
 ✔ Test Cases
 
-Documented in Excel
+##Documented in Excel
 
 Covers:
 
@@ -51,14 +53,14 @@ Product catalog behavior
 Cart functionality
 Checkout workflow
 
-Each test case includes:
+##Each test case includes:
 
 Test steps
 Expected vs actual results
 Status tracking
 ✔ Bug Reports
 
-Located in bug-reports.md
+##Located in bug-reports.md
 
 Includes:
 
@@ -69,7 +71,7 @@ Functional & UI issues
 Edge-case and state-related bugs
 ✔ Evidence
 
-Screenshots are provided for:
+##Screenshots are provided for:
 
 Test execution
 Bug validation
@@ -79,10 +81,10 @@ Browser: Google Chrome
 Documentation: Markdown, Excel (Test Cases)
 Bug Tracking: Structured Markdown Reports
 Version Control: Git & GitHub
-Testing Type: Manual Functional Testing
+##Testing Type: Manual Functional Testing
 🎯 Testing Approach
 
-This project follows a structured QA methodology:
+##This project follows a structured QA methodology:
 
 Manual functional testing
 Positive & negative testing
@@ -91,12 +93,12 @@ UI/UX validation
 Edge case testing
 Smoke testing for critical flows
 
-Critical flow tested:
+##Critical flow tested:
 Login → Product Selection → Cart → Checkout
 
-🐞 Key Bugs Identified
+##🐞 Key Bugs Identified
 
-Some important issues discovered:
+##Some important issues discovered:
 
 Cart does not support multiple quantities of the same item
 Checkout validation behaves inconsistently
@@ -105,7 +107,7 @@ State mismatch between product page and cart
 
 All bugs are documented with proper QA standards in bug-reports.md.
 
-📚 Purpose of This Project
+##📚 Purpose of This Project
 
 This repository is part of my Software Quality Assurance Portfolio, demonstrating:
 
@@ -115,7 +117,7 @@ Identifying and reporting bugs effectively
 Understanding of real-world QA workflows
 Attention to detail and analytical thinking
 
-It also reflects my experience in:
+##It also reflects my experience in:
 
 Software Quality Assurance
 Project coordination and reporting
